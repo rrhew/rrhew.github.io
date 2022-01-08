@@ -14,12 +14,12 @@ widget1:
   text: 'Check here for updates for the <em>Atmospheric Biogeochemistry Lab</em>'
 widget2:
   title: "Research"
-  url: 'https://github.com/rrhew.github.io/info/'
+  url: 'https://rrhew.github.io/info/'
   text: '<em>Atmospheric Biogeochemistry Lab</em> focuses on the biosphere-atmosphere exchange of environmentally important trace gases:<br/>1. Halocarbons <br/>2. Methane and Hydrocarbons.<br/>3. Sulfur compounds.<br/> And atmospheric impacts associated with: <br/>5. Copper <br/>6. Fires'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Methods"
-  url: 'https://github.com/rrhew.github.io/feeling-responsive'
+  url: 'https://rrhew.github.io/feeling-responsive'
   image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 #
